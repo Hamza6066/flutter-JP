@@ -1,0 +1,2 @@
+// git => tool , github => cloud platform   bitbucket etc//
+// git command 1) git init 2) git add. 3)git status 4)git commit -m "message" 5)git remote add  origin https://github.com/username/repo 6)git push -u origin master 7)git config --global user.name "name" 8)git config --globale user.email "email"
